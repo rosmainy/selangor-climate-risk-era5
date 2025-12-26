@@ -10,10 +10,10 @@
 - Bayesian posterior: 89.7% rain probability Ampang
 - Auto Hijri + Skyfield falak (Manazil al-Qamar)
 - Turath: Ajāʾib al-Makhlūqāt + PIAMA Kedah
-
 ## 📊 Results Ampang (26 Dis 2025)
 | Lokasi | Rain Prob | Expected | Category |
 |--------|-----------|----------|----------|
-| Ampang | 89.7%     | 10.9mm   | Ringan   |
+| **Ampang** | **89.7%** | **10.9mm** | **Ringan** |
+
 
 ## 🚀 Quick Demo
