@@ -29,7 +29,7 @@
 | **Sabak Bernam**| **81.5%** | **8.6mm**| **Ringan** |
 
 ## Features
-- ✅ **48yr ERA5 climatology** (Open-Meteo ECMWF API)
+- ✅ **50yr ERA5 climatology** (Open-Meteo ECMWF API)
 - ✅ **Live MET Malaysia** + OpenMeteo + BOM MJO  
 - ✅ **USGS Earthquake real-time** (Gempa monitoring)
 - ✅ **Bayesian posterior** 20+ Selangor locations
