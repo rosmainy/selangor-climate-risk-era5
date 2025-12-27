@@ -1,9 +1,10 @@
-# ERA5-GEMPA: Real-time Flood Risk Malaysia  
+# ERA5-GEMPA: Selangor Climate Risk System  
 **Bayesian ERA5 + MET Malaysia + MJO + Falak + Turath**
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-LIVE-blue)](https://era5-gempa.streamlit.app) [![ERA5](https://img.shields.io/badge/Data-ERA5-green)](https://cds.climate.copernicus.eu)
+[![Climate Map](https://img.shields.io/badge/Selangor-Climate%20Risk-green)](selangor-climate-risk-map.html)
+[![ERA5](https://img.shields.io/badge/Data-ERA5-green)](https://cds.climate.copernicus.eu)
 
-## Results Ampang (26 Dis 2025)
+## Ampang Climate Analysis (26 Dis 2025)
 | Lokasi | Rain Prob | Expected | Category |
 |--------|-----------|----------|----------|
 | **Ampang** | **89.7%** | **10.9mm** | **Ringan** |
@@ -15,8 +16,6 @@
 - ✅ Auto Hijri + Skyfield falak (Manazil al-Qamar)
 - ✅ Turath: Aja'ib al-Makhluqat + PIAMA Kedah
 
-## Quick Demo
-[![Open in nbviewer](https://img.shields.io/badge/nbviewer-Map%20Interaktif-brightgreen)](https://nbviewer.org/github/rosmainy/era5-gempa-malaysia/blob/main/notebooks/01-era5-gempa-ampang.ipynb)
-
-**Streamlit Dashboard:** `streamlit run app.py`
+## Live Demo
+Klik badge atas → **Interactive map Selangor** (zoom/click)
 
