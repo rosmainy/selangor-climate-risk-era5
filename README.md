@@ -33,7 +33,21 @@
 
 [![Made with Malaysia](https://img.shields.io/badge/Made%20with-Malaysia-red?style=for-the-badge&logo=malaysia)](https://github.com/rosmainy)
 
+---
+## 📡 Q1 2026 Update: Ampang Hyper-Local Sensor Prototype
 
+While ERA5 provides global climate data, we are developing a **Ground Truth** verification system using **Frugal Innovation** in Ampang, Selangor.
+
+### 🌧️ The Concept: Ku-Band Rain Fade
+Using Parabolic Antenna to detect real-time rainfall intensity.
+*   **Physics:** Ku-Band waves (12GHz) attenuate significantly during heavy rain.
+*   **Method:** Monitoring SNR/Signal Strength to predict flash floods 15-30 mins in advance.
+
+### 📊 Simulation Result (4 Jan 2026)
+![Analisis Hujan Ampang](simulasi_saintifik_4jan.png)
+*Figure: Correlation between Satellite Signal Drop (dBm) and Heavy Rainfall (>30mm/hr) in Ampang.*
+
+**Status:** Hardware integration in progress.
 
 
 
