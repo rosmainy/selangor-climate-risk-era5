@@ -12,6 +12,16 @@ This repository represents the core **Technical Proof-of-Concept (POC)** develop
 We are pioneering a **Context-Aware Disaster Monitoring System** that fuses satellite data, astronomical calculations, and traditional **Falak Turath** to identify flood risks with greater localized accuracy.
 
 ---
+
+## 🚀 LIVE DASHBOARD: Interactive Rainfall Map
+Access our high-resolution animated map showing historical rainfall intensity in Ampang, Selangor (2020–2025).
+
+### [👉 LAUNCH INTERACTIVE MAP (CLICK HERE)](https://rosmainy.github.io/selangor-climate-risk-era5/2_Peta_Animasi_Hybrid_Info.html)
+
+*(Note: For the best experience, view on Desktop/PC. Press the ▶️ Play button on the map to visualize temporal changes.)*
+
+---
+
 ## 🚧 Product Roadmap
 Our development pipeline is structured to ensure robust commercial deployment. We are currently finalizing Phase 1 validation:
 
@@ -21,19 +31,12 @@ Our development pipeline is structured to ensure robust commercial deployment. W
 | **Phase 2** | **Hardware Innovation** | 🔄 **ONGOING** | Prototyping proprietary **RF-Based IoT Sensors** for real-time ground truth verification (Patent Pending). |
 | **Phase 3** | **Commercial Deployment** | 🔜 **PLANNED** | Enterprise Dashboard API for B2B/B2G clients & Mobile App integration. |
 
-## 🚀 LIVE DASHBOARD: Interactive Rainfall Mini Map
-Access our high-resolution animated map showing historical rainfall intensity in Ampang, Selangor (2020–2025).
-
-### [👉 LAUNCH INTERACTIVE MAP (CLICK HERE)](https://rosmainy.github.io/selangor-climate-risk-era5/2_Peta_Animasi_Hybrid_Info.html)
-
-*(Note: For the best experience, view on Desktop/PC. Press the ▶️ Play button on the map to visualize temporal changes.)*
-
 ---
 
 ## 🎯 Our Unique Value Proposition (UVP)
 While global giants (like *Windy.com* or *OpenWeather*) provide world-class real-time visualizations, they rely on "Macro-Scale" models that often lack **localized historical context** and **cultural ecological markers**.
 
-**[Falak Tech]** aims to bridge this data gap by focusing on two specific niches overlooked by standard weather apps:
+**Falak Tech** aims to bridge this data gap by focusing on two specific niches overlooked by standard weather apps:
 
 ### 1. 📍 Hyper-Local Granularity & Historical Intelligence
 *   **Global Limit:** Major apps average out weather data over large districts and lack "Institutional Memory" of past disasters.
@@ -47,6 +50,7 @@ While global giants (like *Windy.com* or *OpenWeather*) provide world-class real
 *   **Our Edge:** We are the first to **digitize and algorithmize** traditional environmental indicators from:
     *   *Kitāb al-Anwā'* (Ibn Qutaybah) & *Piama Kedah* (Malay Agro-Calendar).
     *   Using these historical cycles to validate modern "Outlier Events" (e.g., Extreme rain during specific lunar phases).
+
 ---
 
 ## 📊 Executive Summary
@@ -58,7 +62,7 @@ This system establishes a climatic baseline for Selangor by processing hourly da
 
 ## 📡 Proprietary Hardware: Next-Gen IoT Sensing (Confidential)
 
-While data analysis provides historical context, **[Falak Tech]** is developing a proprietary hardware solution for **Real-Time Ground Truth**.
+While data analysis provides historical context, **Falak Tech** is developing a proprietary hardware solution for **Real-Time Ground Truth**.
 
 *(Note: Due to pending Intellectual Property (IP) registration and patent filing, the specific engineering architecture of this module is currently classified.)*
 
@@ -72,14 +76,10 @@ Unlike traditional "Tipping Bucket" gauges that are prone to debris blockage and
 *   **The Value:** Provides a critical **15-30 minute lead time** for flash flood warnings before water levels rise on the ground.
 
 ### 📊 Simulation Data (Internal Test: 4 Jan 2026)
-![Analisis Hujan Ampang](simulasi_saintifik_4jan.png)
+![Analisis Hujan Ampang](Figure_1.png)
 *Figure: Internal lab results showing high correlation between our sensor readings (Red) and ground truth intensity (Blue).*
 
 **Status:** R&D Phase. Restricted access for pilot partners only.
-
-### 📊 Simulation Data (Internal Test: 4 Jan 2026)
-![Analisis Hujan Ampang](simulasi_saintifik_4jan.png)
-*Figure: Correlation analysis between Satellite Signal Drop (Red Line) and Heavy Rainfall Events (Blue Bars).*
 
 ---
 
@@ -93,6 +93,13 @@ Our engine is built upon industry-standard scientific frameworks:
 | **Astronomy** | `Skyfield` (Python) | High-precision planetary positions (NASA JPL) |
 | **Storm Data** | `IBTrACS` (NOAA) | Historical cyclone/typhoon tracking |
 | **Meteorology** | Open-Meteo (ERA5) | Hourly weather parameters |
+
+---
+
+## 📸 System Preview
+> *Interactive Hybrid Map showing Rainfall Intensity Zones (Red) vs Safe Zones (Blue)*
+
+![Map Interface](screenshot_peta.png)
 
 ---
 
